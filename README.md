@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Sigar</h1>
 <h3 align="center">I'm a competitive coder and Android Developer </h3>
-<h3 🏁 🍇 😀 🔤Hello, World!🔤❗️ 🍉</h3>
+<h3 align="center"> 🏁 🍇 😀 🔤Hello, World!🔤❗️ 🍉</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsigar&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsigar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsigar" alt="rohitsigar" /></a> </p>
 
 - 🔭 I’m currently pursuing Integrated Btech + Mtech from [IIITM Gwalior.](http://www.iiitm.ac.in/)
 
