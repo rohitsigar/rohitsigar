@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing Integrated Btech + Mtech from [IIITM Gwalior.](http://www.iiitm.ac.in/)
 
-- 👯 I’m looking for **Android development Intern**
+- 👯  **Android development Intern** at [Rising Youth Foundation](https://theryf.org/)
 
 - 👨‍💻 Codechef [4 🌟 (1969)](https://www.codechef.com/users/rohita05)
 
