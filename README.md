@@ -5,17 +5,13 @@
 
 - 🔭 I’m currently pursuing Integrated Btech + Mtech from [IIITM Gwalior.](http://www.iiitm.ac.in/)
 
-- 👯  **Android development Intern** at [Rising Youth Foundation](https://theryf.org/)
-
 - 👨‍💻 Codechef [4 🌟 (1969)](https://www.codechef.com/users/rohita05)
 
-- 👨‍💻 CodeForces [1370 + rating](https://codeforces.com/profile/rohita)
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://rohitsigar.github.io/)
+- 👨‍💻 CodeForces [Specialist 1462 rating](https://codeforces.com/profile/rohita)
 
 - 📫 How to reach me **rohitsigar05@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rlvZv0P7KEVMCjh5Um9CCO447p1srMde/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DNT0wO1CdBxlcAELbA8Q29TXuvLBkUEj/view?usp=sharing)
 
 - ⚡ Fun fact **When I'm not on the computer, I enjoy Basketball, reading books, and most important sleep.**
 
