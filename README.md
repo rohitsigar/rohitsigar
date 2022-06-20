@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently pursuing Integrated Btech + Mtech from [IIITM Gwalior.](http://www.iiitm.ac.in/)
 
-- 👨‍💻 Codechef [4 🌟 (1969)](https://www.codechef.com/users/rohita05)
+- 👨‍💻 Codechef [5 🌟 (2002)](https://www.codechef.com/users/rohita05)
 
-- 👨‍💻 CodeForces [Specialist 1462 rating](https://codeforces.com/profile/rohita)
+- 👨‍💻 CodeForces [Expert 1689 rating](https://codeforces.com/profile/rohita)
 
 - 📫 How to reach me **rohitsigar05@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DNT0wO1CdBxlcAELbA8Q29TXuvLBkUEj/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11pQNion2jUb7RaeSx0IWKEq_d3aHjGe4/view)
 
 - ⚡ Fun fact **When I'm not on the computer, I enjoy Basketball, reading books, and most important sleep.**
 
