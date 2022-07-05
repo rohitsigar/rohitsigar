@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rohit Sigar</h1>
 <h3 align="center">I'm a competitive coder and Android Developer </h3>
-<h3 align="center"> 🏁 🍇 😀 🔤Hello, World!🔤❗️ 🍉</h3>
+<h3 align="center"> 🏁 🍇 😀 🔤Hello, World!🔤❗️ 🍉</h3
+
+🔭 I’m currently pursuing Integrated Btech + Mtech from [IIITM Gwalior.](http://www.iiitm.ac.in/)
+
+👨‍💻 Codechef [5 🌟 (2002)](https://www.codechef.com/users/rohita05)
+
+👨‍💻 CodeForces [Expert 1689 rating](https://codeforces.com/profile/rohita)
 
 
-- 🔭 I’m currently pursuing Integrated Btech + Mtech from [IIITM Gwalior.](http://www.iiitm.ac.in/)
 
-- 👨‍💻 Codechef [5 🌟 (2002)](https://www.codechef.com/users/rohita05)
-
-- 👨‍💻 CodeForces [Expert 1689 rating](https://codeforces.com/profile/rohita)
-
-- 📫 How to reach me **rohitsigar05@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11pQNion2jUb7RaeSx0IWKEq_d3aHjGe4/view)
-
-- ⚡ Fun fact **When I'm not on the computer, I enjoy Basketball, reading books, and most important sleep.**
+ ⚡ Fun fact **When I'm not on the computer, I enjoy Basketball, reading books, and most important sleep.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-sigar-056a19193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rohit-sigar-056a19193" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-sigar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rohit-sigar-056a19193" height="30" width="40" /></a>
 <a href="https://instagram.com/rohita_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rohita_05" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohita05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohita05" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rohita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rohita" height="30" width="40" /></a>
