@@ -2,6 +2,9 @@
 <h3 align="center">I'm a competitive coder and Android Developer </h3>
 <h3 align="center"> 🏁 🍇 😀 🔤Hello, World!🔤❗️ 🍉</h3
 
+
+🇬 Former Software Engineer Intern @ Google
+
 🔭 I’m currently pursuing Integrated Btech + Mtech from [IIITM Gwalior.](http://www.iiitm.ac.in/)
 
 👨‍💻 Codechef [5 🌟 (2002)](https://www.codechef.com/users/rohita05)
